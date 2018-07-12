@@ -1,4 +1,4 @@
-package UtilDemo.HttpUtil;
+package util_demo.http_util;
 
 
 import org.jsoup.Jsoup;
